@@ -31,7 +31,7 @@ A través de múltiples visualizaciones se identificaron patrones clave:
  - Queens destaca por sus picos altos en gasto promedio los sábados.
  - Brooklyn tiene su mejor día de gasto promedio los martes, pero cae notablemente los fines de semana.
 
-###💡 Principales Insights de Negocio
+### 💡 Principales Insights de Negocio
 
  - Queens concentra los clientes de mayor valor, mientras que Brooklyn requiere estrategias para elevar el ticket promedio.
  - Las categorías fuertes varían por sucursal, por lo que es recomendable un enfoque de inventario y promociones segmentado.
